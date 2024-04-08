@@ -6,4 +6,4 @@ hosted yet.
 STEPS TO RUN
 1) Create a virtual environment using python -m venv venvname
 2) Install requirements using pip install -r requirements.txt
-3) Run the app using streamlit app.py
+3) Run the app using streamlit run chatbot.py
