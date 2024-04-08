@@ -1,3 +1,5 @@
+NOTE : This is a personal mini project
+
 This is a videogame chatbot for Genshin Impact character builds.
 The data is in a custom pdf and will be updated on a regular basis,
 as well as when new characters are added. This project has not been
