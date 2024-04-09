@@ -14,3 +14,5 @@ IMP : This code runs on your cpu. To use your gpu instead,
       replace model_kwargs={'device':'cpu'} with 
               model_kwargs={'device':'cuda:0'} 
               (number based on which gpu you want to use)
+              
+Using CUDA require cudatoolkit installation and nsight (for vscode)
