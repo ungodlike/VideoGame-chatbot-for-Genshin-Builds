@@ -9,3 +9,8 @@ STEPS TO RUN
 1) Create a virtual environment using python -m venv venvname
 2) Install requirements using pip install -r requirements.txt
 3) Run the app using streamlit run chatbot.py
+
+IMP : This code runs on your cpu. To use your gpu instead,
+      replace model_kwargs={'device':'cpu'} with 
+              model_kwargs={'device':'cuda:0'} 
+              (number based on which gpu you want to use)
