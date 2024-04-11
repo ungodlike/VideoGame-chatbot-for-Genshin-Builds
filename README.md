@@ -16,3 +16,5 @@ IMP : This code runs on your cpu. To use your gpu instead,
               (number based on which gpu you want to use)
               
 Using CUDA require cudatoolkit installation and nsight (for vscode)
+
+https://developer.nvidia.com/cuda-downloads make sure your gpu supports cuda
