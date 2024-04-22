@@ -18,3 +18,5 @@ IMP : This code runs on your cpu. To use your gpu instead,
 Using CUDA require cudatoolkit installation and nsight (for vscode)
 
 https://developer.nvidia.com/cuda-downloads make sure your gpu supports cuda
+
+![Screenshot (19)](https://github.com/ungodlike/VideoGame-chatbot-for-Genshin-Builds/assets/115410346/7cc223ef-31d6-43e0-81ed-98095c40ab0e)
